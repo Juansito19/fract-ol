@@ -1,14 +1,6 @@
 # fract-ol
 
-![Fractal Animation]([https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2g1ZWw0b3hkMm1iajBuYTJwYW9udXhiY3VvbnVqazViMnE4ZTcyYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGcxdhS5isNwqsuY/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2g1ZWw0b3hkMm1iajBuYTJwYW9udXhiY3VvbnVqazViMnE4ZTcyYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGcxdhS5isNwqsuY/giphy.gif))
-
-![Fractal Animation](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2g1ZWw0b3hkMm1iajBuYTJwYW9udXhiY3VvbnVqazViMnE4ZTcyYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGcxdhS5isNwqsuY/giphy.gif)
-
-# Prueba de GIF
-
-Este es un GIF animado de fractal:
-
-![Fractal Animation](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2g1ZWw0b3hkMm1iajBuYTJwYW9udXhiY3VvbnVqazViMnE4ZTcyYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGcxdhS5isNwqsuY/giphy.gif)
+![Fractal animado](https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif)
 
 **Español**
 
