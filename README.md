@@ -1,6 +1,6 @@
 # fract-ol
 
-![fractal](<img width="480" height="274" alt="image" src="https://github.com/user-attachments/assets/b10e48c2-7d56-482f-93b1-5bf0c84505a7" />)
+![fractal](https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyMnZtajVxZzE2Z3ViamJ4aWNlNWhxOG9wZDB1YzdrNmI2cXMxbGhjYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Gdx2Wp8jVYxUs/giphy.gif)
 
 **Español**
 
