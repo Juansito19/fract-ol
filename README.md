@@ -1,7 +1,5 @@
 # fract-ol
 
-![Frac](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2MxeWtmcXc1bHZnd2t4N2lxcWF6aXp5NzN2czhkbTY5aWtvcWgzdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/r9nFhsw99P0yliVDmm/giphy.gif)
-
 ![Descripción de la imagen](https://upload.wikimedia.org/wikipedia/commons/2/21/Mandel_zoom_00_mandelbrot_set.jpg)
 
 **Español**
