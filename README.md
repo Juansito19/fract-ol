@@ -1,7 +1,5 @@
 # fract-ol
 
-![Fractal 2](https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif)
-
 ![Fractal 1](https://media.giphy.com/media/xUPGcxdhS5isNwqsuY/giphy.gif)
 
 **Español**
