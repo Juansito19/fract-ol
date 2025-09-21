@@ -1,6 +1,6 @@
 # fract-ol
 
-![fractal]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Ffractales&psig=AOvVaw3ecwbCwr6lBE33UOa2PLBQ&ust=1758580306271000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMjKsKX06o8DFQAAAAAdAAAAABAW.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2g1ZWw0b3hkMm1iajBuYTJwYW9udXhiY3VvbnVqazViMnE4ZTcyYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGcxdhS5isNwqsuY/giphy.gif))
+![fractal](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2g1ZWw0b3hkMm1iajBuYTJwYW9udXhiY3VvbnVqazViMnE4ZTcyYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGcxdhS5isNwqsuY/giphy.gif)
 
 **Español**
 
