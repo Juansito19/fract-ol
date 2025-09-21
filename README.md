@@ -1,6 +1,6 @@
 # fract-ol
 
-![Fractal animado](https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif)
+![Fractal animado]([https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif](https://media.giphy.com/media/xUPGcxdhS5isNwqsuY/giphy.gif))
 
 **Español**
 
