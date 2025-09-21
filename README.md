@@ -2,6 +2,8 @@
 
 ![fractal](https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyMnZtajVxZzE2Z3ViamJ4aWNlNWhxOG9wZDB1YzdrNmI2cXMxbGhjYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Gdx2Wp8jVYxUs/giphy.gif)
 
+![Animación Fractal](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+
 **Español**
 
 **fract-ol** es un proyecto cuyo objetivo es crear y visualizar fractales matemáticos interactivos utilizando gráficos por computadora. El programa permite explorar diferentes tipos de fractales (como Mandelbrot y Julia), modificar parámetros en tiempo real y disfrutar de coloridas representaciones visuales generadas a partir de fórmulas matemáticas complejas.
