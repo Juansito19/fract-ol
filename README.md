@@ -1,8 +1,11 @@
 # fract-ol
 
+[Ir a Español](#espa%C3%B1ol) | [Go to English](#english)
+
+
 ![Descripción de la imagen](https://upload.wikimedia.org/wikipedia/commons/2/21/Mandel_zoom_00_mandelbrot_set.jpg)
 
-**Español**
+# Español
 
 **fract-ol** es un proyecto cuyo objetivo es crear y visualizar fractales matemáticos interactivos utilizando gráficos por computadora. El programa permite explorar diferentes tipos de fractales (como Mandelbrot y Julia), modificar parámetros en tiempo real y disfrutar de coloridas representaciones visuales generadas a partir de fórmulas matemáticas complejas.
 
@@ -86,7 +89,7 @@ Algunas implementaciones pueden permitir parámetros extra para personalizar la 
 
 # fract-ol
 
-**English**
+# English
 
 **fract-ol** is a project focused on creating and visualizing interactive mathematical fractals using computer graphics. The program allows you to explore different types of fractals (such as Mandelbrot and Julia), tweak parameters in real time, and enjoy colorful visual representations generated from complex mathematical formulas.
 
